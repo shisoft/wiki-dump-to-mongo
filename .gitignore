@@ -4,3 +4,4 @@
 *.jar
 *.war
 *.ear
+/wiki-dump-to-mongo/nbproject/private/
